@@ -4,11 +4,17 @@
       <v-flex xs12>
         <h1>Hello World</h1>
         <div>
-          Genrate your full components using
+          Genrate your full components online
+          <a
+            href="https://shabeeb.github.io/vue-typescript-code-generator/"
+            target="_vue-typescript-code-generator"
+            >vue-typescript-code-generator</a
+          >
+          or fork my generator
           <a
             href="https://github.com/shabeeb/vue-typescript-code-generator"
             target="_vue-typescript-code-generator"
-            >vue-typescript-code-generator</a
+            >fork my generator</a
           >
         </div>
       </v-flex>
