@@ -2,6 +2,10 @@
 
 simple vue vuex typescript starter with vuetify
 
+## code Generator
+
+check online code generator [vue-typescript-code-generator](https://shabeeb.github.io/vue-typescript-code-generator/)
+
 ## Project setup
 
 ```
